@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ApplicationTest</string>
+    <string name="hello_main_activity">Bienvenue</string>
+    <string name="mood_main_activity">Comment allez-vous ?</string>
+    <string name="translate_button_text">Traduire</string>
+    <string name="onClick_text">How are you ?</string>
+    <string name="goto_loginactivity_button">Se connecter</string>
+    <string name="login_edittext">Adresse mail</string>
+
+    <string name="title_second_activity">Mon compte</string>
+    <string name="back_button_text">Retour</string>
+    <string name="address_text">Adresse</string>
+    <string name="list_button_text">Accéder à ma liste de courses</string>
+
+</resources>
